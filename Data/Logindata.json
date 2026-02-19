@@ -1,0 +1,12 @@
+{
+  "validUser": {
+    "username": "frederick_m_friedman",
+    "password": "D!gitalC0nnect",
+    "expectedUrl":"https://test.ypoconnect.org/#/home"
+  },
+  "invalidUser": {
+    "username": "locked_out_user",
+    "password": "wrong_password",
+    "errorMsg": "Invalid credentials"
+  }
+}
