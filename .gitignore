@@ -1,12 +1,27 @@
-
-# Playwright
+# Dependencies
 node_modules/
-/test-results/
-/playwright-report/
-/blob-report/
-/playwright/.cache/
-/playwright/.auth/
-.md
-.png
-.zip
+.pnp
+.pnp.js
 
+# Testing outputs
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# Environment and Secrets
+.env
+.env.local
+.env.test
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs
+*-debug.log
+*-error.log
+
+# Allure reports and results
+allure-results/
+allure-report/
