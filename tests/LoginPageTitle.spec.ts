@@ -2,7 +2,7 @@ import { test, expect } from '@playwright/test';
 import { LoginPage } from '../Pages/LoginPage'; // Notice the { }// Importing the data file
 import * as validUser from '../Data/Logindata.json';
 
-test.describe('Data-Driven Login Tests', () => {
+test.describe('Login Tests', () => {
   test.beforeEach(async ({ page, context }) => {
     // This clears cookies and storage for the specific context
     await context.clearCookies();
