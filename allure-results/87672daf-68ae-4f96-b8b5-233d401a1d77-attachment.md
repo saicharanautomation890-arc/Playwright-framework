@@ -1,0 +1,1209 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:   
+  - text:      
+  - text:      
+  - generic:     
+  - generic: 
+  - generic: 
+  - main [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - img [ref=e12] [cursor=pointer]
+          - generic [ref=e54]:
+            - generic [ref=e57]: search
+            - generic [ref=e59]:
+              - generic [ref=e60]:
+                - generic: Search YPO Connect
+                - textbox "Search YPO Connect" [ref=e61]
+              - button "SEARCH" [ref=e66] [cursor=pointer]:
+                - generic [ref=e67]: SEARCH
+          - generic [ref=e69]:
+            - text: 
+            - button [ref=e72] [cursor=pointer]:
+              - generic [ref=e74]: 
+            - button [ref=e77] [cursor=pointer]:
+              - generic [ref=e79]: 
+            - button [ref=e82] [cursor=pointer]:
+              - img [ref=e84]
+            - button [ref=e88] [cursor=pointer]:
+              - img [ref=e90]
+            - button "Resources Info" [ref=e95] [cursor=pointer]:
+              - img "Resources Info" [ref=e97]
+            - generic [ref=e101] [cursor=pointer]:
+              - button "Frederick Friedman" [ref=e102]:
+                - img "Frederick Friedman" [ref=e105]
+              - text: 
+            - button [ref=e108] [cursor=pointer]:
+              - generic [ref=e110]: 
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - text: YPO and its partners use cookies and similar technologies to improve your Connect browsing experience and to collect information relating to your Connect activities for the purpose of providing you with content. You may disable these cookies in your browser; however, we may not be able to provide you with all or part of the Connect services. By clicking "Accept All Cookies", you consent to our
+            - link "Cookie Policy" [ref=e113] [cursor=pointer]:
+              - /url: https://res.cloudinary.com/ypoconnect-test/publiclyaccessiblefiles/YPO_Cookie_Policy.pdf
+            - text: which details how we may collect and use visitor data.
+          - button "Accept all Cookies" [ref=e115] [cursor=pointer]:
+            - generic [ref=e116]: Accept all Cookies
+        - generic [ref=e117]:
+          - button "YPO Concierge Concierge" [ref=e119] [cursor=pointer]:
+            - generic [ref=e121]:
+              - img "YPO Concierge" [ref=e122]
+              - generic [ref=e124]: Concierge
+          - button [ref=e125] [cursor=pointer]:
+            - generic [ref=e127]: close
+      - generic [ref=e129]:
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - list [ref=e135]:
+              - link "Home" [ref=e136] [cursor=pointer]:
+                - /url: "#/home"
+              - listitem [ref=e137]: /
+              - link "Chapter":
+                - /url: "#/chapter/8cf3f690-adc1-df11-ac93-0050569257ef"
+              - listitem [ref=e138]: /
+              - link "YPO Big Apple Gold":
+                - /url: "#/chapter/8cf3f690-adc1-df11-ac93-0050569257ef"
+            - generic [ref=e140]: YPO Big Apple Gold
+          - generic [ref=e142]:
+            - generic:
+              - generic [ref=e143]:
+                - text: Chapter Health
+                - strong [ref=e144]: Platinum
+              - img [ref=e145]
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - heading "My Quick Links " [level=2] [ref=e150]:
+                - text: My Quick Links
+                - button "" [ref=e151] [cursor=pointer]:
+                  - generic [ref=e153]: 
+              - generic [ref=e154]:
+                - generic [ref=e157]:
+                  - img "Strategic Partnerships" [ref=e158] [cursor=pointer]
+                  - generic [ref=e159]: Strategic Partnerships
+                - generic [ref=e162]:
+                  - img "CEO Insights" [ref=e163] [cursor=pointer]
+                  - generic [ref=e164]: CEO Insights
+                - generic [ref=e165]:
+                  - generic [ref=e167]:
+                    - img "Champion Hub" [ref=e168] [cursor=pointer]
+                    - generic [ref=e169]: Champion Hub
+                  - generic [ref=e170]: My Champion
+                - generic [ref=e173]:
+                  - img "Forum Hub" [ref=e174] [cursor=pointer]
+                  - generic [ref=e175]: Forum Hub
+                - generic [ref=e176]:
+                  - generic [ref=e178]:
+                    - img "YPO Big Apple Gold" [ref=e179] [cursor=pointer]
+                    - generic [ref=e180]: YPO Big Apple Gold
+                  - generic [ref=e181]: My Chapter
+                - generic [ref=e184]:
+                  - img "Learning Hub" [ref=e185] [cursor=pointer]
+                  - generic [ref=e186]: Learning Hub
+            - generic [ref=e188]:
+              - list [ref=e191]:
+                - listitem [ref=e192]:
+                  - generic [ref=e193] [cursor=pointer]:
+                    - heading "About" [level=2] [ref=e195]
+                    - generic [ref=e197]: keyboard_arrow_down
+              - generic [ref=e199]:
+                - generic [ref=e200]:
+                  - text: Chapter Awards
+                  - img [ref=e201]
+                - generic [ref=e202]:
+                  - generic [ref=e203]:
+                    - heading "FY23-24 Winners" [level=3] [ref=e204]
+                    - heading "Global Awards" [level=4] [ref=e205]
+                    - generic [ref=e206]:
+                      - generic [ref=e207]:
+                        - img [ref=e209]
+                        - generic [ref=e210]:
+                          - strong [ref=e211]: Best Personal Event
+                          - emphasis [ref=e212]: Sarah Prinsloo
+                      - separator [ref=e213]
+                  - generic [ref=e214]:
+                    - heading "FY17-18 Winners" [level=3] [ref=e215]
+                    - heading "Global Awards" [level=4] [ref=e216]
+                    - generic [ref=e217]:
+                      - generic [ref=e218]:
+                        - img [ref=e220]
+                        - generic [ref=e221]:
+                          - strong [ref=e222]: "Family: Best YNG Regional Event"
+                          - emphasis [ref=e223]: Zakary Smith
+                      - separator [ref=e224]
+                  - generic [ref=e225]:
+                    - heading "FY16-17 Winners" [level=3] [ref=e226]
+                    - heading "Global Awards" [level=4] [ref=e227]
+                    - generic [ref=e228]:
+                      - generic [ref=e229]:
+                        - img [ref=e231]
+                        - generic [ref=e232]:
+                          - strong [ref=e233]: Best Social Engagement Network
+                          - emphasis [ref=e234]: Laura Koch
+                      - separator [ref=e235]
+                  - generic [ref=e236]:
+                    - heading "FY13-14 Winners" [level=3] [ref=e237]
+                    - heading "Global Awards" [level=4] [ref=e238]
+                    - generic [ref=e239]:
+                      - generic [ref=e240]:
+                        - img [ref=e242]
+                        - generic [ref=e243]:
+                          - strong [ref=e244]: "Events: Americas Best Educational Event"
+                          - emphasis [ref=e245]: Rob Tannor
+                      - separator [ref=e246]
+                  - generic [ref=e247]:
+                    - heading "FY12-13 Winners" [level=3] [ref=e248]
+                    - heading "Global Awards" [level=4] [ref=e249]
+                    - generic [ref=e250]:
+                      - generic [ref=e251]:
+                        - img [ref=e253]
+                        - generic [ref=e254]:
+                          - strong [ref=e255]: Best Business Network Event
+                          - emphasis [ref=e256]: Robert Lapidus
+                      - separator [ref=e257]
+                  - generic [ref=e258]:
+                    - heading "FY11-12 Winners" [level=3] [ref=e259]
+                    - heading "Global Awards" [level=4] [ref=e260]
+                    - generic [ref=e261]:
+                      - generic [ref=e262]:
+                        - img [ref=e264]
+                        - generic [ref=e265]:
+                          - strong [ref=e266]: "Learning: Best Chapter Retreat"
+                          - emphasis [ref=e267]: Richard Reitknecht
+                      - separator [ref=e268]
+                  - generic [ref=e269]:
+                    - heading "FY10-11 Winners" [level=3] [ref=e270]
+                    - heading "Global Awards" [level=4] [ref=e271]
+                    - generic [ref=e272]:
+                      - generic [ref=e273]:
+                        - img [ref=e275]
+                        - generic [ref=e276]:
+                          - strong [ref=e277]: Legacy Honor Award
+                          - emphasis [ref=e278]: Michael Ostroff
+                      - separator [ref=e279]
+              - generic [ref=e280]:
+                - heading "Files and Media " [level=2] [ref=e281]:
+                  - text: Files and Media
+                  - button "" [ref=e282] [cursor=pointer]:
+                    - generic [ref=e284]: 
+                - generic [ref=e286]: No folders created
+            - generic [ref=e288]:
+              - heading "YPO Policies and Terms" [level=2] [ref=e289]
+              - generic [ref=e290]:
+                - link "Community Standards" [ref=e293] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/page/community-standards
+                - link "Conflict of Interest Policy" [ref=e296] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center/folder/5cada228-197f-4f25-b7e1-ae2f18bb70b1
+                - link "Groups Terms & Conditions" [ref=e299] [cursor=pointer]:
+                  - /url: https://res.cloudinary.com/ypoconnect-test/publiclyaccessiblefiles/Group_Terms_And_Conditions.pdf
+                - link "Networks Terms & Conditions" [ref=e302] [cursor=pointer]:
+                  - /url: https://connect.ypowpo.org/Portal/department/networks-and-groups/training-and-tools/network-terms-and-conditions
+                - link "Policies & Procedures" [ref=e305] [cursor=pointer]:
+                  - /url: https://psconnect.ypowpo.org/portal/department/about-ypo/policies/bylaws-policies-and-procedures
+                - link "Political Advocacy Guidelines" [ref=e308] [cursor=pointer]:
+                  - /url: https://res.cloudinary.com/ypoconnect-test/publiclyaccessiblefiles/6f5aafd4-7ff9-44b1-866c-0255d439934b.pdf
+                - link "Privacy Notice & Terms of Use" [ref=e311] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center/folder/84f9e590-6a67-420f-9435-b978df17a065
+                - link "YPO Brand and Social Media Policy" [ref=e314] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center/folder/b5edd8ab-91cd-4a4e-be74-d6f877cd3baa
+                - link "YPO Financials & Board Minutes" [ref=e317] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center
+                - link "Report an Issue" [ref=e320] [cursor=pointer]:
+                  - /url: https://secure.ethicspoint.com/domain/media/en/gui/12443/index.html
+          - generic [ref=e321]:
+            - text:   
+            - generic [ref=e325]:
+              - img [ref=e329] [cursor=pointer]
+              - generic [ref=e363] [cursor=pointer]:
+                - generic [ref=e364]: forums
+                - generic [ref=e366]: 
+              - generic [ref=e371] [cursor=pointer]:
+                - generic [ref=e372]: chapters
+                - generic [ref=e374]: 
+              - generic [ref=e379] [cursor=pointer]:
+                - generic [ref=e380]: networks
+                - generic [ref=e382]: 
+              - generic [ref=e387] [cursor=pointer]:
+                - generic [ref=e388]: regions
+                - generic [ref=e390]: 
+              - generic [ref=e395] [cursor=pointer]:
+                - generic [ref=e396]: champions
+                - generic [ref=e398]: 
+              - generic [ref=e403] [cursor=pointer]:
+                - generic [ref=e404]: groups
+                - generic [ref=e406]: 
+              - generic [ref=e409] [cursor=pointer]:
+                - generic [ref=e410]: 
+                - generic [ref=e411]: 
+            - generic [ref=e417]:
+              - generic [ref=e420]:
+                - generic [ref=e421]: Share something with YPO Big Apple Gold
+                - button "Share" [ref=e422] [cursor=pointer]:
+                  - generic [ref=e423]: Share
+                - text: 
+              - generic [ref=e427]:
+                - generic [ref=e430]:
+                  - generic [ref=e431]:
+                    - listitem [ref=e433]:
+                      - generic [ref=e434]:
+                        - img [ref=e437]
+                        - generic [ref=e438]:
+                          - generic [ref=e439]: Frederick Friedman Friedman
+                          - generic [ref=e440]: YPO Big Apple Gold
+                    - generic [ref=e441]:
+                      - generic [ref=e442]: Friday, 13 June 2025 at 9:56 AM
+                      - generic [ref=e443]: access_time
+                      - generic [ref=e446] [cursor=pointer]: more_vert
+                  - generic [ref=e447]:
+                    - generic [ref=e448]: Test
+                    - paragraph [ref=e452]: Post for prod exception on incremental search
+                  - generic [ref=e453]:
+                    - generic [ref=e454]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e456]:
+                      - generic [ref=e458] [cursor=pointer]:
+                        - img [ref=e459]
+                        - text: Like 0
+                      - generic [ref=e461] [cursor=pointer]:
+                        - generic [ref=e462]: 
+                        - text: Comments 0
+                      - generic [ref=e463]:
+                        - text: Be the first to like this
+                        - generic [ref=e464]: Be the first to comment on this
+                - generic [ref=e467]:
+                  - generic [ref=e468]:
+                    - listitem [ref=e470]:
+                      - generic [ref=e471]:
+                        - img [ref=e474]
+                        - generic [ref=e475]:
+                          - generic [ref=e476]: Frederick Friedman Friedman
+                          - generic [ref=e477]: YPO Big Apple Gold
+                    - generic [ref=e478]:
+                      - generic [ref=e479]: Friday, 9 May 2025 at 8:45 AM
+                      - generic [ref=e480]: access_time
+                      - generic [ref=e483] [cursor=pointer]: more_vert
+                  - generic [ref=e484]:
+                    - generic [ref=e485]: Incremental Post in CHapter May 9th
+                    - paragraph [ref=e489]: Test post for incremental search May 9th 2025
+                  - generic [ref=e500]:
+                    - generic [ref=e501]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e503]:
+                      - generic [ref=e505] [cursor=pointer]:
+                        - img [ref=e506]
+                        - text: Like 0
+                      - generic [ref=e508] [cursor=pointer]:
+                        - generic [ref=e509]: 
+                        - text: Comments 0
+                      - generic [ref=e510]:
+                        - text: Be the first to like this
+                        - generic [ref=e511]: Be the first to comment on this
+                - generic [ref=e514]:
+                  - generic [ref=e515]:
+                    - listitem [ref=e517]:
+                      - generic [ref=e518]:
+                        - img [ref=e521]
+                        - generic [ref=e522]:
+                          - generic [ref=e523]: Kevin Wolf
+                          - generic [ref=e524]: YPO Gold Northeastern US At Large
+                    - generic [ref=e525]:
+                      - generic [ref=e526]: Tuesday, 25 July 2023 at 12:32 PM
+                      - generic [ref=e527]: access_time
+                      - generic [ref=e530] [cursor=pointer]: more_vert
+                  - generic [ref=e531]:
+                    - generic [ref=e532]: Manual Regression Post
+                    - paragraph [ref=e536]: Regression Manual Post On 25/07/23
+                  - generic [ref=e547]:
+                    - generic [ref=e548]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e550]:
+                      - generic [ref=e552] [cursor=pointer]:
+                        - img [ref=e553]
+                        - text: Like 0
+                      - generic [ref=e555] [cursor=pointer]:
+                        - generic [ref=e556]: 
+                        - text: Comments 0
+                      - generic [ref=e557]:
+                        - text: Be the first to like this
+                        - generic [ref=e558]: Be the first to comment on this
+                - generic [ref=e561]:
+                  - generic [ref=e562]:
+                    - listitem [ref=e564]:
+                      - generic [ref=e565]:
+                        - img [ref=e568]
+                        - generic [ref=e570]: Sunil Chiluveru
+                    - generic [ref=e571]:
+                      - generic [ref=e572]: Tuesday, 25 May 2021 at 12:35 PM
+                      - generic [ref=e573]: access_time
+                      - generic [ref=e576] [cursor=pointer]: more_vert
+                  - generic [ref=e577]:
+                    - generic [ref=e578]: AutomationTest - PA55D
+                    - generic [ref=e580]: Automation Test Post - 5/25/2021 6:05:38 PM
+                  - generic [ref=e585]:
+                    - generic [ref=e586]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e588]:
+                      - generic [ref=e590] [cursor=pointer]:
+                        - img [ref=e591]
+                        - text: Like 0
+                      - generic [ref=e593] [cursor=pointer]:
+                        - generic [ref=e594]: 
+                        - text: Comments 0
+                      - generic [ref=e595]:
+                        - text: Be the first to like this
+                        - generic [ref=e596]: Be the first to comment on this
+                - generic [ref=e599]:
+                  - generic [ref=e600]:
+                    - listitem [ref=e602]:
+                      - generic [ref=e603]:
+                        - img [ref=e606]
+                        - generic [ref=e607]:
+                          - generic [ref=e608]: Chris Carey
+                          - generic [ref=e609]: YPO Gold Santa Monica Bay
+                    - generic [ref=e610]:
+                      - generic [ref=e611]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e612]: access_time
+                      - generic [ref=e615] [cursor=pointer]: more_vert
+                  - generic [ref=e618]: New images
+                  - generic [ref=e629]:
+                    - generic [ref=e630]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e632]:
+                      - generic [ref=e634] [cursor=pointer]:
+                        - img [ref=e635]
+                        - text: Like 0
+                      - generic [ref=e637] [cursor=pointer]:
+                        - generic [ref=e638]: 
+                        - text: Comments 0
+                      - generic [ref=e639]:
+                        - text: Be the first to like this
+                        - generic [ref=e640]: Be the first to comment on this
+                - generic [ref=e643]:
+                  - generic [ref=e644]:
+                    - listitem [ref=e646]:
+                      - generic [ref=e647]:
+                        - img [ref=e650]
+                        - generic [ref=e651]:
+                          - generic [ref=e652]: Chris Carey
+                          - generic [ref=e653]: YPO Gold Santa Monica Bay
+                    - generic [ref=e654]:
+                      - generic [ref=e655]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e656]: access_time
+                      - generic [ref=e659] [cursor=pointer]: more_vert
+                  - generic [ref=e662]: Test post with images from iOS
+                  - generic [ref=e678]:
+                    - generic [ref=e679]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e681]:
+                      - generic [ref=e683] [cursor=pointer]:
+                        - img [ref=e684]
+                        - text: Like 0
+                      - generic [ref=e686] [cursor=pointer]:
+                        - generic [ref=e687]: 
+                        - text: Comments 0
+                      - generic [ref=e688]:
+                        - text: Be the first to like this
+                        - generic [ref=e689]: Be the first to comment on this
+                - generic [ref=e692]:
+                  - generic [ref=e693]:
+                    - listitem [ref=e695]:
+                      - generic [ref=e696]:
+                        - img [ref=e699]
+                        - generic [ref=e700]:
+                          - generic [ref=e701]: Chris Carey
+                          - generic [ref=e702]: YPO Gold Santa Monica Bay
+                    - generic [ref=e703]:
+                      - generic [ref=e704]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e705]: access_time
+                      - generic [ref=e708] [cursor=pointer]: more_vert
+                  - generic [ref=e711]: Test post without title
+                  - generic [ref=e712]:
+                    - generic [ref=e713]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e715]:
+                      - generic [ref=e717] [cursor=pointer]:
+                        - img [ref=e718]
+                        - text: Like 0
+                      - generic [ref=e720] [cursor=pointer]:
+                        - generic [ref=e721]: 
+                        - text: Comments 0
+                      - generic [ref=e722]:
+                        - text: Be the first to like this
+                        - generic [ref=e723]: Be the first to comment on this
+                - generic [ref=e726]:
+                  - generic [ref=e727]:
+                    - listitem [ref=e729]:
+                      - generic [ref=e730]:
+                        - img [ref=e733]
+                        - generic [ref=e734]:
+                          - generic [ref=e735]: Chris Carey
+                          - generic [ref=e736]: YPO Gold Santa Monica Bay
+                    - generic [ref=e737]:
+                      - generic [ref=e738]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e739]: access_time
+                      - generic [ref=e742] [cursor=pointer]: more_vert
+                  - paragraph [ref=e747]: Test post
+                  - generic [ref=e748]:
+                    - generic [ref=e749]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e751]:
+                      - generic [ref=e753] [cursor=pointer]:
+                        - img [ref=e754]
+                        - text: Like 0
+                      - generic [ref=e756] [cursor=pointer]:
+                        - generic [ref=e757]: 
+                        - text: Comments 0
+                      - generic [ref=e758]:
+                        - text: Be the first to like this
+                        - generic [ref=e759]: Be the first to comment on this
+                - generic [ref=e762]:
+                  - generic [ref=e763]:
+                    - listitem [ref=e765]:
+                      - generic [ref=e766]:
+                        - img [ref=e769]
+                        - generic [ref=e770]:
+                          - generic [ref=e771]: Chris Carey
+                          - generic [ref=e772]: YPO Gold Santa Monica Bay
+                    - generic [ref=e773]:
+                      - generic [ref=e774]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e775]: access_time
+                      - generic [ref=e778] [cursor=pointer]: more_vert
+                  - generic [ref=e781]: Hello Test
+                  - generic [ref=e782]:
+                    - generic [ref=e783]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e785]:
+                      - generic [ref=e787] [cursor=pointer]:
+                        - img [ref=e788]
+                        - text: Like 0
+                      - generic [ref=e790] [cursor=pointer]:
+                        - generic [ref=e791]: 
+                        - text: Comments 0
+                      - generic [ref=e792]:
+                        - text: Be the first to like this
+                        - generic [ref=e793]: Be the first to comment on this
+                - generic [ref=e796]:
+                  - generic [ref=e797]:
+                    - listitem [ref=e799]:
+                      - generic [ref=e800]:
+                        - img [ref=e803]
+                        - generic [ref=e804]:
+                          - generic [ref=e805]: Chris Carey
+                          - generic [ref=e806]: YPO Gold Santa Monica Bay
+                    - generic [ref=e807]:
+                      - generic [ref=e808]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e809]: access_time
+                      - generic [ref=e812] [cursor=pointer]: more_vert
+                  - generic [ref=e813]:
+                    - generic [ref=e814]: Test
+                    - paragraph [ref=e818]: Test
+                  - generic [ref=e819]:
+                    - generic [ref=e820]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e822]:
+                      - generic [ref=e824] [cursor=pointer]:
+                        - img [ref=e825]
+                        - text: Like 0
+                      - generic [ref=e827] [cursor=pointer]:
+                        - generic [ref=e828]: 
+                        - text: Comments 0
+                      - generic [ref=e829]:
+                        - text: Be the first to like this
+                        - generic [ref=e830]: Be the first to comment on this
+                - generic [ref=e833]:
+                  - generic [ref=e834]:
+                    - listitem [ref=e836]:
+                      - generic [ref=e837]:
+                        - img [ref=e840]
+                        - generic [ref=e841]:
+                          - generic [ref=e842]: Chris Carey
+                          - generic [ref=e843]: YPO Gold Santa Monica Bay
+                    - generic [ref=e844]:
+                      - generic [ref=e845]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e846]: access_time
+                      - generic [ref=e849] [cursor=pointer]: more_vert
+                  - generic [ref=e852]: Test post with images from iOS
+                  - generic [ref=e883]:
+                    - generic [ref=e884]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e886]:
+                      - generic [ref=e888] [cursor=pointer]:
+                        - img [ref=e889]
+                        - text: Like 0
+                      - generic [ref=e891] [cursor=pointer]:
+                        - generic [ref=e892]: 
+                        - text: Comments 0
+                      - generic [ref=e893]:
+                        - text: Be the first to like this
+                        - generic [ref=e894]: Be the first to comment on this
+                - generic [ref=e897]:
+                  - generic [ref=e898]:
+                    - listitem [ref=e900]:
+                      - generic [ref=e901]:
+                        - img [ref=e904]
+                        - generic [ref=e905]:
+                          - generic [ref=e906]: Chris Carey
+                          - generic [ref=e907]: YPO Gold Santa Monica Bay
+                    - generic [ref=e908]:
+                      - generic [ref=e909]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e910]: access_time
+                      - generic [ref=e913] [cursor=pointer]: more_vert
+                  - paragraph [ref=e918]: Test
+                  - generic [ref=e919]:
+                    - generic [ref=e920]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e922]:
+                      - generic [ref=e924] [cursor=pointer]:
+                        - img [ref=e925]
+                        - text: Like 0
+                      - generic [ref=e927] [cursor=pointer]:
+                        - generic [ref=e928]: 
+                        - text: Comments 0
+                      - generic [ref=e929]:
+                        - text: Be the first to like this
+                        - generic [ref=e930]: Be the first to comment on this
+                - generic [ref=e933]:
+                  - generic [ref=e934]:
+                    - listitem [ref=e936]:
+                      - generic [ref=e937]:
+                        - img [ref=e940]
+                        - generic [ref=e941]:
+                          - generic [ref=e942]: Chris Carey
+                          - generic [ref=e943]: YPO Gold Santa Monica Bay
+                    - generic [ref=e944]:
+                      - generic [ref=e945]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e946]: access_time
+                      - generic [ref=e949] [cursor=pointer]: more_vert
+                  - generic [ref=e952]: Test post
+                  - generic [ref=e978]:
+                    - generic [ref=e979]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e981]:
+                      - generic [ref=e983] [cursor=pointer]:
+                        - img [ref=e984]
+                        - text: Like 0
+                      - generic [ref=e986] [cursor=pointer]:
+                        - generic [ref=e987]: 
+                        - text: Comments 0
+                      - generic [ref=e988]:
+                        - text: Be the first to like this
+                        - generic [ref=e989]: Be the first to comment on this
+                - generic [ref=e992]:
+                  - generic [ref=e993]:
+                    - listitem [ref=e995]:
+                      - generic [ref=e996]:
+                        - img [ref=e999]
+                        - generic [ref=e1000]:
+                          - generic [ref=e1001]: Chris Carey
+                          - generic [ref=e1002]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1003]:
+                      - generic [ref=e1004]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1005]: access_time
+                      - generic [ref=e1008] [cursor=pointer]: more_vert
+                  - generic [ref=e1011]: Test post from iOS to see if untitled is displayed
+                  - generic [ref=e1012]:
+                    - generic [ref=e1013]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1015]:
+                      - generic [ref=e1017] [cursor=pointer]:
+                        - img [ref=e1018]
+                        - text: Like 0
+                      - generic [ref=e1020] [cursor=pointer]:
+                        - generic [ref=e1021]: 
+                        - text: Comments 0
+                      - generic [ref=e1022]:
+                        - text: Be the first to like this
+                        - generic [ref=e1023]: Be the first to comment on this
+                - generic [ref=e1026]:
+                  - generic [ref=e1027]:
+                    - listitem [ref=e1029]:
+                      - generic [ref=e1030]:
+                        - img [ref=e1033]
+                        - generic [ref=e1034]:
+                          - generic [ref=e1035]: Chris Carey
+                          - generic [ref=e1036]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1037]:
+                      - generic [ref=e1038]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1039]: access_time
+                      - generic [ref=e1042] [cursor=pointer]: more_vert
+                  - generic [ref=e1045]: test post
+                  - generic [ref=e1066]:
+                    - generic [ref=e1067]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1069]:
+                      - generic [ref=e1071] [cursor=pointer]:
+                        - img [ref=e1072]
+                        - text: Like 0
+                      - generic [ref=e1074] [cursor=pointer]:
+                        - generic [ref=e1075]: 
+                        - text: Comments 0
+                      - generic [ref=e1076]:
+                        - text: Be the first to like this
+                        - generic [ref=e1077]: Be the first to comment on this
+                - generic [ref=e1080]:
+                  - generic [ref=e1081]:
+                    - listitem [ref=e1083]:
+                      - generic [ref=e1084]:
+                        - img [ref=e1087]
+                        - generic [ref=e1088]:
+                          - generic [ref=e1089]: Chris Carey
+                          - generic [ref=e1090]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1091]:
+                      - generic [ref=e1092]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1093]: access_time
+                      - generic [ref=e1096] [cursor=pointer]: more_vert
+                  - generic [ref=e1099]: Test post from iOS to see if post has title in web
+                  - generic [ref=e1100]:
+                    - generic [ref=e1101]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1103]:
+                      - generic [ref=e1105] [cursor=pointer]:
+                        - img [ref=e1106]
+                        - text: Like 0
+                      - generic [ref=e1108] [cursor=pointer]:
+                        - generic [ref=e1109]: 
+                        - text: Comments 0
+                      - generic [ref=e1110]:
+                        - text: Be the first to like this
+                        - generic [ref=e1111]: Be the first to comment on this
+                - generic [ref=e1114]:
+                  - generic [ref=e1115]:
+                    - listitem [ref=e1117]:
+                      - generic [ref=e1118]:
+                        - img [ref=e1121]
+                        - generic [ref=e1122]:
+                          - generic [ref=e1123]: Chris Carey
+                          - generic [ref=e1124]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1125]:
+                      - generic [ref=e1126]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1127]: access_time
+                      - generic [ref=e1130] [cursor=pointer]: more_vert
+                  - generic [ref=e1133]: test to test
+                  - generic [ref=e1134]:
+                    - generic [ref=e1135]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1137]:
+                      - generic [ref=e1139] [cursor=pointer]:
+                        - img [ref=e1140]
+                        - text: Like 0
+                      - generic [ref=e1142] [cursor=pointer]:
+                        - generic [ref=e1143]: 
+                        - text: Comments 0
+                      - generic [ref=e1144]:
+                        - text: Be the first to like this
+                        - generic [ref=e1145]: Be the first to comment on this
+                - generic [ref=e1148]:
+                  - generic [ref=e1149]:
+                    - listitem [ref=e1151]:
+                      - generic [ref=e1152]:
+                        - img [ref=e1155]
+                        - generic [ref=e1156]:
+                          - generic [ref=e1157]: Chris Carey
+                          - generic [ref=e1158]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1159]:
+                      - generic [ref=e1160]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1161]: access_time
+                      - generic [ref=e1164] [cursor=pointer]: more_vert
+                  - generic [ref=e1167]: Test
+                  - generic [ref=e1178]:
+                    - generic [ref=e1179]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1181]:
+                      - generic [ref=e1183] [cursor=pointer]:
+                        - img [ref=e1184]
+                        - text: Like 0
+                      - generic [ref=e1186] [cursor=pointer]:
+                        - generic [ref=e1187]: 
+                        - text: Comments 0
+                      - generic [ref=e1188]:
+                        - text: Be the first to like this
+                        - generic [ref=e1189]: Be the first to comment on this
+                - generic [ref=e1192]:
+                  - generic [ref=e1193]:
+                    - listitem [ref=e1195]:
+                      - generic [ref=e1196]:
+                        - img [ref=e1199]
+                        - generic [ref=e1200]:
+                          - generic [ref=e1201]: Chris Carey
+                          - generic [ref=e1202]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1203]:
+                      - generic [ref=e1204]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1205]: access_time
+                      - generic [ref=e1208] [cursor=pointer]: more_vert
+                  - generic [ref=e1211]: New Image.
+                  - generic [ref=e1222]:
+                    - generic [ref=e1223]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1225]:
+                      - generic [ref=e1227] [cursor=pointer]:
+                        - img [ref=e1228]
+                        - text: Like 0
+                      - generic [ref=e1230] [cursor=pointer]:
+                        - generic [ref=e1231]: 
+                        - text: Comments 0
+                      - generic [ref=e1232]:
+                        - text: Be the first to like this
+                        - generic [ref=e1233]: Be the first to comment on this
+                - generic [ref=e1236]:
+                  - generic [ref=e1237]:
+                    - listitem [ref=e1239]:
+                      - generic [ref=e1240]:
+                        - img [ref=e1243]
+                        - generic [ref=e1244]:
+                          - generic [ref=e1245]: Chris Carey
+                          - generic [ref=e1246]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1247]:
+                      - generic [ref=e1248]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1249]: access_time
+                      - generic [ref=e1252] [cursor=pointer]: more_vert
+                  - generic [ref=e1255]: Test post to see title
+                  - generic [ref=e1256]:
+                    - generic [ref=e1257]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1259]:
+                      - generic [ref=e1261] [cursor=pointer]:
+                        - img [ref=e1262]
+                        - text: Like 0
+                      - generic [ref=e1264] [cursor=pointer]:
+                        - generic [ref=e1265]: 
+                        - text: Comments 0
+                      - generic [ref=e1266]:
+                        - text: Be the first to like this
+                        - generic [ref=e1267]: Be the first to comment on this
+                - generic [ref=e1270]:
+                  - generic [ref=e1271]:
+                    - listitem [ref=e1273]:
+                      - generic [ref=e1274]:
+                        - img [ref=e1277]
+                        - generic [ref=e1278]:
+                          - generic [ref=e1279]: Chris Carey
+                          - generic [ref=e1280]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1281]:
+                      - generic [ref=e1282]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1283]: access_time
+                      - generic [ref=e1286] [cursor=pointer]: more_vert
+                  - generic [ref=e1289]: Test post with images edited
+                  - generic [ref=e1305]:
+                    - generic [ref=e1306]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1308]:
+                      - generic [ref=e1310] [cursor=pointer]:
+                        - img [ref=e1311]
+                        - text: Like 0
+                      - generic [ref=e1313] [cursor=pointer]:
+                        - generic [ref=e1314]: 
+                        - text: Comments 0
+                      - generic [ref=e1315]:
+                        - text: Be the first to like this
+                        - generic [ref=e1316]: Be the first to comment on this
+                - generic [ref=e1319]:
+                  - generic [ref=e1320]:
+                    - listitem [ref=e1322]:
+                      - generic [ref=e1323]:
+                        - img [ref=e1326]
+                        - generic [ref=e1327]:
+                          - generic [ref=e1328]: Chris Carey
+                          - generic [ref=e1329]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1330]:
+                      - generic [ref=e1331]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1332]: access_time
+                      - generic [ref=e1335] [cursor=pointer]: more_vert
+                  - generic [ref=e1338]: test
+                  - generic [ref=e1369]:
+                    - generic [ref=e1370]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1372]:
+                      - generic [ref=e1374] [cursor=pointer]:
+                        - img [ref=e1375]
+                        - text: Like 0
+                      - generic [ref=e1377] [cursor=pointer]:
+                        - generic [ref=e1378]: 
+                        - text: Comments 0
+                      - generic [ref=e1379]:
+                        - text: Be the first to like this
+                        - generic [ref=e1380]: Be the first to comment on this
+                - generic [ref=e1383]:
+                  - generic [ref=e1384]:
+                    - listitem [ref=e1386]:
+                      - generic [ref=e1387]:
+                        - img [ref=e1390]
+                        - generic [ref=e1391]:
+                          - generic [ref=e1392]: Chris Carey
+                          - generic [ref=e1393]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1394]:
+                      - generic [ref=e1395]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1396]: access_time
+                      - generic [ref=e1399] [cursor=pointer]: more_vert
+                  - generic [ref=e1402]: test post from Android to see if title issue is resolved
+                  - generic [ref=e1403]:
+                    - generic [ref=e1404]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1406]:
+                      - generic [ref=e1408] [cursor=pointer]:
+                        - img [ref=e1409]
+                        - text: Like 0
+                      - generic [ref=e1411] [cursor=pointer]:
+                        - generic [ref=e1412]: 
+                        - text: Comments 0
+                      - generic [ref=e1413]:
+                        - text: Be the first to like this
+                        - generic [ref=e1414]: Be the first to comment on this
+                - generic [ref=e1417]:
+                  - generic [ref=e1418]:
+                    - listitem [ref=e1420]:
+                      - generic [ref=e1421]:
+                        - img [ref=e1424]
+                        - generic [ref=e1425]:
+                          - generic [ref=e1426]: Chris Carey
+                          - generic [ref=e1427]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1428]:
+                      - generic [ref=e1429]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1430]: access_time
+                      - generic [ref=e1433] [cursor=pointer]: more_vert
+                  - generic [ref=e1436]: hello
+                  - generic [ref=e1437]:
+                    - generic [ref=e1438]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1440]:
+                      - generic [ref=e1442] [cursor=pointer]:
+                        - img [ref=e1443]
+                        - text: Like 0
+                      - generic [ref=e1445] [cursor=pointer]:
+                        - generic [ref=e1446]: 
+                        - text: Comments 0
+                      - generic [ref=e1447]:
+                        - text: Be the first to like this
+                        - generic [ref=e1448]: Be the first to comment on this
+                - generic [ref=e1451]:
+                  - generic [ref=e1452]:
+                    - listitem [ref=e1454]:
+                      - generic [ref=e1455]:
+                        - img [ref=e1458]
+                        - generic [ref=e1459]:
+                          - generic [ref=e1460]: Chris Carey
+                          - generic [ref=e1461]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1462]:
+                      - generic [ref=e1463]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1464]: access_time
+                      - generic [ref=e1467] [cursor=pointer]: more_vert
+                  - generic [ref=e1470]: Test post from iOS to see if post has title in web
+                  - generic [ref=e1471]:
+                    - generic [ref=e1472]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1474]:
+                      - generic [ref=e1476] [cursor=pointer]:
+                        - img [ref=e1477]
+                        - text: Like 0
+                      - generic [ref=e1479] [cursor=pointer]:
+                        - generic [ref=e1480]: 
+                        - text: Comments 0
+                      - generic [ref=e1481]:
+                        - text: Be the first to like this
+                        - generic [ref=e1482]: Be the first to comment on this
+                - generic [ref=e1485]:
+                  - generic [ref=e1486]:
+                    - listitem [ref=e1488]:
+                      - generic [ref=e1489]:
+                        - img [ref=e1492]
+                        - generic [ref=e1493]:
+                          - generic [ref=e1494]: Chris Carey
+                          - generic [ref=e1495]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1496]:
+                      - generic [ref=e1497]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1498]: access_time
+                      - generic [ref=e1501] [cursor=pointer]: more_vert
+                  - generic [ref=e1504]: test post with images from android
+                  - generic [ref=e1530]:
+                    - generic [ref=e1531]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1533]:
+                      - generic [ref=e1535] [cursor=pointer]:
+                        - img [ref=e1536]
+                        - text: Like 0
+                      - generic [ref=e1538] [cursor=pointer]:
+                        - generic [ref=e1539]: 
+                        - text: Comments 0
+                      - generic [ref=e1540]:
+                        - text: Be the first to like this
+                        - generic [ref=e1541]: Be the first to comment on this
+                - generic [ref=e1544]:
+                  - generic [ref=e1545]:
+                    - listitem [ref=e1547]:
+                      - generic [ref=e1548]:
+                        - img [ref=e1551]
+                        - generic [ref=e1552]:
+                          - generic [ref=e1553]: Chris Carey
+                          - generic [ref=e1554]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1555]:
+                      - generic [ref=e1556]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1557]: access_time
+                      - generic [ref=e1560] [cursor=pointer]: more_vert
+                  - generic [ref=e1563]: hello
+                  - generic [ref=e1564]:
+                    - generic [ref=e1565]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1567]:
+                      - generic [ref=e1569] [cursor=pointer]:
+                        - img [ref=e1570]
+                        - text: Like 0
+                      - generic [ref=e1572] [cursor=pointer]:
+                        - generic [ref=e1573]: 
+                        - text: Comments 0
+                      - generic [ref=e1574]:
+                        - text: Be the first to like this
+                        - generic [ref=e1575]: Be the first to comment on this
+                - generic [ref=e1578]:
+                  - generic [ref=e1579]:
+                    - listitem [ref=e1581]:
+                      - generic [ref=e1582]:
+                        - img [ref=e1585]
+                        - generic [ref=e1586]:
+                          - generic [ref=e1587]: Chris Carey
+                          - generic [ref=e1588]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1589]:
+                      - generic [ref=e1590]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1591]: access_time
+                      - generic [ref=e1594] [cursor=pointer]: more_vert
+                  - generic [ref=e1595]:
+                    - generic [ref=e1596]: adsada
+                    - paragraph [ref=e1600]: adsadadad
+                  - generic [ref=e1601]:
+                    - generic [ref=e1602]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1604]:
+                      - generic [ref=e1606] [cursor=pointer]:
+                        - img [ref=e1607]
+                        - text: Like 0
+                      - generic [ref=e1609] [cursor=pointer]:
+                        - generic [ref=e1610]: 
+                        - text: Comments 0
+                      - generic [ref=e1611]:
+                        - text: Be the first to like this
+                        - generic [ref=e1612]: Be the first to comment on this
+                - generic [ref=e1615]:
+                  - generic [ref=e1616]:
+                    - listitem [ref=e1618]:
+                      - generic [ref=e1619]:
+                        - img [ref=e1622]
+                        - generic [ref=e1623]:
+                          - generic [ref=e1624]: Chris Carey
+                          - generic [ref=e1625]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1626]:
+                      - generic [ref=e1627]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1628]: access_time
+                      - generic [ref=e1631] [cursor=pointer]: more_vert
+                  - generic [ref=e1634]: Test post with images
+                  - generic [ref=e1660]:
+                    - generic [ref=e1661]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1663]:
+                      - generic [ref=e1665] [cursor=pointer]:
+                        - img [ref=e1666]
+                        - text: Like 0
+                      - generic [ref=e1668] [cursor=pointer]:
+                        - generic [ref=e1669]: 
+                        - text: Comments 0
+                      - generic [ref=e1670]:
+                        - text: Be the first to like this
+                        - generic [ref=e1671]: Be the first to comment on this
+                - generic [ref=e1674]:
+                  - generic [ref=e1675]:
+                    - listitem [ref=e1677]:
+                      - generic [ref=e1678]:
+                        - img [ref=e1681]
+                        - generic [ref=e1682]:
+                          - generic [ref=e1683]: Chris Carey
+                          - generic [ref=e1684]: YPO Gold Santa Monica Bay
+                    - generic [ref=e1685]:
+                      - generic [ref=e1686]: Friday, 8 January 2021 at 9:51 PM
+                      - generic [ref=e1687]: access_time
+                      - generic [ref=e1690] [cursor=pointer]: more_vert
+                  - generic [ref=e1693]: Test post
+                  - generic [ref=e1694]:
+                    - generic [ref=e1695]:
+                      - emphasis
+                      - emphasis
+                    - generic [ref=e1697]:
+                      - generic [ref=e1699] [cursor=pointer]:
+                        - img [ref=e1700]
+                        - text: Like 0
+                      - generic [ref=e1702] [cursor=pointer]:
+                        - generic [ref=e1703]: 
+                        - text: Comments 0
+                      - generic [ref=e1704]:
+                        - text: Be the first to like this
+                        - generic [ref=e1705]: Be the first to comment on this
+            - text: 
+          - generic [ref=e1707]:
+            - generic [ref=e1709]:
+              - heading "Region Chapters" [level=2] [ref=e1710]
+              - generic [ref=e1711]:
+                - generic [ref=e1714]:
+                  - generic [ref=e1718] [cursor=pointer]: All
+                  - generic [ref=e1720] [cursor=pointer]: YPO
+                  - generic [ref=e1722] [cursor=pointer]: YPO Gold
+                - generic [ref=e1724]:
+                  - generic [ref=e1727] [cursor=pointer]: YPO Washington DC
+                  - generic [ref=e1730] [cursor=pointer]: YPO US Capital
+                  - generic [ref=e1733] [cursor=pointer]: YPO Americas Gateway
+                  - generic [ref=e1736] [cursor=pointer]: YPO Bermuda Integrated
+                  - generic [ref=e1739] [cursor=pointer]: YPO Empire State Integrated
+                  - generic [ref=e1742] [cursor=pointer]: YPO Greenwich
+                  - generic [ref=e1745] [cursor=pointer]: YPO Gotham Integrated
+                  - generic [ref=e1748] [cursor=pointer]: YPO Pennsylvania Integrated
+                  - generic [ref=e1751] [cursor=pointer]: YPO Long Island Integrated
+                  - generic [ref=e1754] [cursor=pointer]: YPO Metro New York
+                  - generic [ref=e1757] [cursor=pointer]: YPO New England
+                  - generic [ref=e1760] [cursor=pointer]: YPO New Jersey Integrated
+                  - generic [ref=e1763] [cursor=pointer]: YPO Philadelphia
+                  - generic [ref=e1766] [cursor=pointer]: YPO Washington DC and Baltimore
+                  - generic [ref=e1769] [cursor=pointer]: YPO Connecticut River Valley Integrated
+                  - generic [ref=e1772] [cursor=pointer]: YPO New York City Regional Integrated
+                  - generic [ref=e1775] [cursor=pointer]: YPO Manhattan
+                  - generic [ref=e1778] [cursor=pointer]: YPO US Atlantic 13 Regional Integrated
+                  - generic [ref=e1781] [cursor=pointer]: YPO Northeast One Regional Integrated
+                  - generic [ref=e1784] [cursor=pointer]: YPO Garden State Integrated
+                  - generic [ref=e1787] [cursor=pointer]: YPO New York Polaris Integrated
+                  - generic [ref=e1790] [cursor=pointer]: YPO New York Liberty
+                  - generic [ref=e1793] [cursor=pointer]: YPO Terra Integrated
+                  - generic [ref=e1796] [cursor=pointer]: YPO Boston Integrated
+                  - generic [ref=e1799] [cursor=pointer]: YPO Northeast Seacoast Integrated
+            - generic [ref=e1800]:
+              - heading "Regional Map of Chapters" [level=2] [ref=e1801]
+              - generic [ref=e1806]:
+                - generic:
+                  - button "Keyboard shortcuts"
+                - region "Map" [ref=e1807]
+                - generic [ref=e1808]:
+                  - generic [ref=e1856]:
+                    - generic:
+                      - generic:
+                        - button [ref=e1858] [cursor=pointer]
+                        - button [ref=e1859] [cursor=pointer]
+                        - button [ref=e1860] [cursor=pointer]
+                        - button [ref=e1861] [cursor=pointer]
+                        - button [ref=e1862] [cursor=pointer]
+                        - button [ref=e1863] [cursor=pointer]
+                        - button [ref=e1864] [cursor=pointer]
+                        - button [ref=e1865] [cursor=pointer]
+                        - button [ref=e1866] [cursor=pointer]
+                        - button [ref=e1867] [cursor=pointer]
+                        - button [ref=e1868] [cursor=pointer]
+                        - button [ref=e1869] [cursor=pointer]
+                        - button [ref=e1870] [cursor=pointer]
+                        - button [ref=e1871] [cursor=pointer]
+                        - button [ref=e1872] [cursor=pointer]
+                        - button [ref=e1873] [cursor=pointer]
+                        - button [ref=e1874] [cursor=pointer]
+                        - button [ref=e1875] [cursor=pointer]
+                        - button [ref=e1876] [cursor=pointer]
+                        - button [ref=e1877] [cursor=pointer]
+                        - button [ref=e1878] [cursor=pointer]
+                        - button [ref=e1879] [cursor=pointer]
+                        - button [ref=e1880] [cursor=pointer]
+                        - button [ref=e1881] [cursor=pointer]
+                        - button [ref=e1882] [cursor=pointer]
+                        - button [ref=e1883] [cursor=pointer]
+                        - button [ref=e1884] [cursor=pointer]
+                        - button [ref=e1885] [cursor=pointer]
+                        - button [ref=e1886] [cursor=pointer]
+                        - button [ref=e1887] [cursor=pointer]
+                  - iframe [ref=e1888]:
+                    
+                  - button "Map camera controls" [ref=e1890] [cursor=pointer]
+                  - link "Open this area in Google Maps (opens a new window)" [ref=e1892] [cursor=pointer]:
+                    - /url: https://maps.google.com/maps?ll=38.918851,-77.067438&z=3&t=m&hl=en-US&gl=US&mapclient=apiv3
+                    - img "Google" [ref=e1894]
+                  - generic [ref=e1895]:
+                    - button "Keyboard shortcuts" [ref=e1901] [cursor=pointer]
+                    - generic [ref=e1906]: Map data ©2026 Google, INEGI
+                    - link "Terms (opens in new tab)" [ref=e1911] [cursor=pointer]:
+                      - /url: https://www.google.com/intl/en-US_US/help/terms_maps.html
+                      - text: Terms
+              - button "View All" [ref=e1913] [cursor=pointer]:
+                - generic [ref=e1914]: View All
+            - generic [ref=e1915]:
+              - heading "Directory Participants (491)" [level=2] [ref=e1918]:
+                - text: Directory
+                - generic [ref=e1920]: Participants (491)
+              - generic [ref=e1921]:
+                - generic [ref=e1922]:
+                  - generic [ref=e1923]:
+                    - img [ref=e1925]
+                    - generic [ref=e1926]:
+                      - strong [ref=e1928] [cursor=pointer]: Sundeep Bhan
+                      - text: Chapter Chair
+                  - generic [ref=e1929]:
+                    - img [ref=e1931]
+                    - generic [ref=e1932]:
+                      - strong [ref=e1934] [cursor=pointer]: Elaine Chin
+                      - text: Chapter Manager
+                - list [ref=e1935]:
+                  - listitem [ref=e1936]:
+                    - generic [ref=e1937] [cursor=pointer]:
+                      - generic [ref=e1938]:
+                        - text: Chapter Officers
+                        - generic [ref=e1939]: (21)
+                      - generic [ref=e1941]: keyboard_arrow_down
+                - button "View All" [ref=e1944] [cursor=pointer]:
+                  - generic [ref=e1945]: View All
+```

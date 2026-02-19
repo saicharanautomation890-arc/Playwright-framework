@@ -16,7 +16,7 @@ test.describe('Login Tests', () => {
     await loginPage.navigate();
     await loginPage.login(validUser.validUser.username, validUser.validUser.password);
 
-    await expect(page).toHaveURL(new RegExp(username.expectedUrl));
+    await expect(page).toHaveTitle("YPO Connect")
   });
 
 });

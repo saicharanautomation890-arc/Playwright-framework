@@ -1,0 +1,168 @@
+# Page snapshot
+
+```yaml
+- generic [ref=e2]:
+  - generic: 
+  - generic: 
+  - main [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - generic [ref=e9]:
+          - img [ref=e12] [cursor=pointer]
+          - generic [ref=e54]:
+            - generic [ref=e57]: search
+            - generic [ref=e59]:
+              - generic [ref=e60]:
+                - generic: Search YPO Connect
+                - textbox "Search YPO Connect" [ref=e61]
+              - button "SEARCH" [ref=e66] [cursor=pointer]:
+                - generic [ref=e67]: SEARCH
+          - generic [ref=e69]:
+            - text: 
+            - button [ref=e72] [cursor=pointer]:
+              - generic [ref=e74]: 
+            - button [ref=e77] [cursor=pointer]:
+              - generic [ref=e79]: 
+            - button [ref=e82] [cursor=pointer]:
+              - img [ref=e84]
+            - button [ref=e88] [cursor=pointer]:
+              - img [ref=e90]
+            - button "Resources Info" [ref=e95] [cursor=pointer]:
+              - img "Resources Info" [ref=e97]
+            - generic [ref=e101] [cursor=pointer]:
+              - button "Frederick Friedman" [ref=e102]:
+                - img "Frederick Friedman" [ref=e105]
+              - text: 
+            - button [ref=e108] [cursor=pointer]:
+              - generic [ref=e110]: 
+        - generic [ref=e111]:
+          - generic [ref=e112]:
+            - text: YPO and its partners use cookies and similar technologies to improve your Connect browsing experience and to collect information relating to your Connect activities for the purpose of providing you with content. You may disable these cookies in your browser; however, we may not be able to provide you with all or part of the Connect services. By clicking "Accept All Cookies", you consent to our
+            - link "Cookie Policy" [ref=e113] [cursor=pointer]:
+              - /url: https://res.cloudinary.com/ypoconnect-test/publiclyaccessiblefiles/YPO_Cookie_Policy.pdf
+            - text: which details how we may collect and use visitor data.
+          - button "Accept all Cookies" [ref=e115] [cursor=pointer]:
+            - generic [ref=e116]: Accept all Cookies
+        - generic [ref=e117]:
+          - button "YPO Concierge Concierge" [ref=e119] [cursor=pointer]:
+            - generic [ref=e121]:
+              - img "YPO Concierge" [ref=e122]
+              - generic [ref=e124]: Concierge
+          - button [ref=e125] [cursor=pointer]:
+            - generic [ref=e127]: close
+      - generic [ref=e129]:
+        - generic [ref=e132]:
+          - generic [ref=e133]:
+            - list [ref=e135]:
+              - link "Home" [ref=e136] [cursor=pointer]:
+                - /url: "#/home"
+              - listitem [ref=e137]: /
+              - link "Chapter":
+                - /url: "#/chapter/8cf3f690-adc1-df11-ac93-0050569257ef"
+              - listitem [ref=e138]: /
+              - link "YPO Big Apple Gold":
+                - /url: "#/chapter/8cf3f690-adc1-df11-ac93-0050569257ef"
+            - generic [ref=e140]: YPO Big Apple Gold
+          - generic [ref=e142]:
+            - generic:
+              - generic [ref=e143]:
+                - text: Chapter Health
+                - strong [ref=e144]: Platinum
+              - img [ref=e145]
+        - generic [ref=e147]:
+          - generic [ref=e148]:
+            - generic [ref=e149]:
+              - heading "My Quick Links" [level=2] [ref=e150]
+              - generic [ref=e151]:
+                - generic [ref=e154]:
+                  - img "Strategic Partnerships" [ref=e155] [cursor=pointer]
+                  - generic [ref=e156]: Strategic Partnerships
+                - generic [ref=e159]:
+                  - img "CEO Insights" [ref=e160] [cursor=pointer]
+                  - generic [ref=e161]: CEO Insights
+                - generic [ref=e162]:
+                  - generic [ref=e164]:
+                    - img "Champion Hub" [ref=e165] [cursor=pointer]
+                    - generic [ref=e166]: Champion Hub
+                  - generic [ref=e167]: My Champion
+                - generic [ref=e170]:
+                  - img "Forum Hub" [ref=e171] [cursor=pointer]
+                  - generic [ref=e172]: Forum Hub
+                - generic [ref=e173]:
+                  - generic [ref=e175]:
+                    - img "YPO Big Apple Gold" [ref=e176] [cursor=pointer]
+                    - generic [ref=e177]: YPO Big Apple Gold
+                  - generic [ref=e178]: My Chapter
+                - generic [ref=e181]:
+                  - img "Learning Hub" [ref=e182] [cursor=pointer]
+                  - generic [ref=e183]: Learning Hub
+            - generic [ref=e185]:
+              - heading "YPO Policies and Terms" [level=2] [ref=e186]
+              - generic [ref=e187]:
+                - link "Community Standards" [ref=e190] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/page/community-standards
+                - link "Conflict of Interest Policy" [ref=e193] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center/folder/5cada228-197f-4f25-b7e1-ae2f18bb70b1
+                - link "Groups Terms & Conditions" [ref=e196] [cursor=pointer]:
+                  - /url: https://res.cloudinary.com/ypoconnect-test/publiclyaccessiblefiles/Group_Terms_And_Conditions.pdf
+                - link "Networks Terms & Conditions" [ref=e199] [cursor=pointer]:
+                  - /url: https://connect.ypowpo.org/Portal/department/networks-and-groups/training-and-tools/network-terms-and-conditions
+                - link "Policies & Procedures" [ref=e202] [cursor=pointer]:
+                  - /url: https://psconnect.ypowpo.org/portal/department/about-ypo/policies/bylaws-policies-and-procedures
+                - link "Political Advocacy Guidelines" [ref=e205] [cursor=pointer]:
+                  - /url: https://res.cloudinary.com/ypoconnect-test/publiclyaccessiblefiles/6f5aafd4-7ff9-44b1-866c-0255d439934b.pdf
+                - link "Privacy Notice & Terms of Use" [ref=e208] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center/folder/84f9e590-6a67-420f-9435-b978df17a065
+                - link "YPO Brand and Social Media Policy" [ref=e211] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center/folder/b5edd8ab-91cd-4a4e-be74-d6f877cd3baa
+                - link "YPO Financials & Board Minutes" [ref=e214] [cursor=pointer]:
+                  - /url: https://www2.ypoconnect.org/topics/24644/media_center
+                - link "Report an Issue" [ref=e217] [cursor=pointer]:
+                  - /url: https://secure.ethicspoint.com/domain/media/en/gui/12443/index.html
+          - generic [ref=e218]:
+            - text:   
+            - generic [ref=e222]:
+              - img [ref=e226] [cursor=pointer]
+              - generic [ref=e260] [cursor=pointer]:
+                - generic [ref=e261]: forums
+                - generic [ref=e263]: 
+              - generic [ref=e268] [cursor=pointer]:
+                - generic [ref=e269]: chapters
+                - generic [ref=e271]: 
+              - generic [ref=e276] [cursor=pointer]:
+                - generic [ref=e277]: networks
+                - generic [ref=e279]: 
+              - generic [ref=e284] [cursor=pointer]:
+                - generic [ref=e285]: regions
+                - generic [ref=e287]: 
+              - generic [ref=e292] [cursor=pointer]:
+                - generic [ref=e293]: champions
+                - generic [ref=e295]: 
+              - generic [ref=e300] [cursor=pointer]:
+                - generic [ref=e301]: groups
+                - generic [ref=e303]: 
+              - generic [ref=e306] [cursor=pointer]:
+                - generic [ref=e307]: 
+                - generic [ref=e308]: 
+            - generic [ref=e314]:
+              - generic [ref=e317]:
+                - generic [ref=e318]: Share something with YPO Big Apple Gold
+                - button "Share" [ref=e319] [cursor=pointer]:
+                  - generic [ref=e320]: Share
+                - text: 
+              - progressbar [ref=e327]:
+                - img [ref=e328]
+            - text: 
+          - generic [ref=e331]:
+            - generic [ref=e332]:
+              - heading "Upcoming Chapter Events" [level=2] [ref=e333]
+              - generic [ref=e334]:
+                - progressbar [ref=e338]:
+                  - img [ref=e339]
+                - button "see more" [ref=e343] [cursor=pointer]:
+                  - generic [ref=e344]: see more
+            - generic [ref=e345]:
+              - heading "Regional Map of Chapters" [level=2] [ref=e346]
+              - button "View All" [ref=e352] [cursor=pointer]:
+                - generic [ref=e353]: View All
+```
